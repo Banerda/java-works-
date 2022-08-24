@@ -1,5 +1,5 @@
 package main;
-import java.util.Scanner; /* Первое задание */
+import java.util.Scanner; /* Третье задание */
 
 public class main {
 	public static void main(String[] args) {
